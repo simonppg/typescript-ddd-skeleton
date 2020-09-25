@@ -10,7 +10,8 @@
     "strict": true,
     "noEmit": false,
     "resolveJsonModule": true,
-    "outDir": "./dist"
+    "outDir": "./dist",
+    "types": ["cypress"]
   },
   "include": [
     "src/**/**.ts",
